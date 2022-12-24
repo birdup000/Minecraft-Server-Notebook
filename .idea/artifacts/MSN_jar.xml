@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MSN:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MSN_jar</output-path>
+    <root id="archive" name="MSN.jar">
+      <element id="module-output" name="MSN" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
