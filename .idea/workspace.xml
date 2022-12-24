@@ -9,11 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="732e2712-1273-4c0a-9f28-29f1dbba4ed7" name="Changes" comment="Add License">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MSN_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+    <list default="true" id="732e2712-1273-4c0a-9f28-29f1dbba4ed7" name="Changes" comment="Added Some Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/rs/in/milivojevic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rs/in/milivojevic/Main.java" afterDir="false" />
     </list>
     <list id="6ea77ee1-4b38-4910-98b1-c8047b641ac0" name="Changes by Brade" comment="" />
@@ -39,7 +36,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -76,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671836976968</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Some Code">
+      <created>1671841243973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671841243973</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Add License" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add License" />
+    <MESSAGE value="Added Some Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Some Code" />
   </component>
 </project>
